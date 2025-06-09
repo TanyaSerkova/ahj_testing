@@ -1,4 +1,4 @@
-[![Netology AHJ](https://github.com/TanyaSerkova/ahj_testing/actions/workflows/web.yml/badge.svg)](https://github.com/TanyaSerkova/ahj_testing/actions/workflows/web.yml)
+[![Netology AHJ](https://github.com/TanyaSerkova/ahj_testing/actions/workflows/web.yml/badge.svg)](https://github.com/TanyaSerkova/ahj_testing/actions/workflows/web.yml) 
 
 https://tanyaserkova.github.io/ahj_testing/
 
