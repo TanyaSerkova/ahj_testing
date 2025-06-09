@@ -30,6 +30,10 @@ export default function defPaySystem(setValue) {
     }
     return arrIdx;
   } else {
+    if (setValue.substr(0, 1) === "4") {
+      arrIdx.push(arrPaySystem.indexOf("visa"));
+      return arrIdx;
+    }
     if (setValue.substr(0, 2) === "22") {
       if (setValue.length === 2) {
         arrIdx.push(arrPaySystem.indexOf("mastercard"));
